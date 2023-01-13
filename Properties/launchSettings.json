@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVParserCS": {
+      "commandName": "Project",
+      "workingDirectory": ".\\"
+    }
+  }
+}

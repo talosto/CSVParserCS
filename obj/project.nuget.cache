@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s7OduAYkJT729oOkUaYYHPLgX5wsXML5baQB9JQm6dPC3rawhPlEmYmBP9p60MNpVKNdVl6BIwKTQaLSNFvjow==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\acm.timus_artemiy_lessons\\2023\\from-table-to-oop-cs\\CSVParserCS\\CSVParserCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tssta\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tssta\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
